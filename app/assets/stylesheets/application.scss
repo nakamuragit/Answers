@@ -1,0 +1,38 @@
+@import 'bootstrap';
+
+
+body {
+  font-family: 'Lato', 'Noto Sans JP', '游ゴシック Medium', '游ゴシック体', 'Yu Gothic Medium', YuGothic, 'ヒラギノ角ゴ ProN', 'Hiragino Kaku Gothic ProN', 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+}
+
+textarea {
+  resize: vertical;
+}
+
+header {
+  margin: 0 auto;
+  ul {
+    li {
+      margin:0 20px;
+    }
+  }
+}
+
+
+/* ヘッダー */
+header {
+  .logo{
+    font-famiry: 'TROCCHI';
+  }
+}
+
+/* トップ画面 */
+
+.top {
+  height: 600px;
+  .new-post {
+    padding-bottom: 500px;
+  }
+}
+
+
